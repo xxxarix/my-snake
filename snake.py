@@ -5,7 +5,7 @@ import random
 pygame.init()
 
 # Nastavení okna
-WIDTH, HEIGHT = 200, 200
+WIDTH, HEIGHT = 400, 400
 GRID_SIZE = 20
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Hadí hra")
